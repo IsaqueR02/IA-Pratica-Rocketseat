@@ -1,2 +1,2 @@
-# IA-Pratica-Rocketseat
- Evento da Rockeseat para implementar ia
+# IA na Pratica Rocketseat
+ Evento da Rockeseat para implementação do Crew ia
